@@ -13,4 +13,6 @@ Example via [@manics on Jupyter dscourse site](https://discourse.jupyter.org/t/r
 
 See the other branches for versions that do, albeit at the expense of using a Dockerfile.
 
+See also: https://blog.ouseful.info/2019/02/04/running-a-postgresql-server-in-a-mybinder-container/
+
 
