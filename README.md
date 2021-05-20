@@ -1,6 +1,8 @@
 # binder-postgres
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/julianpistorius/binder-postgres/master)
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/julianpistorius/binder-postgres/master?filepath=notebooks/Test+Databases.ipynb)
+
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/julianpistorius/binder-postgres/master?urlpath=rstudio)
 
 Demo of launching a binderhub notebook server with a free running Postgres server.
 
